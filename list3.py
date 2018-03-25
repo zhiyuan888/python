@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 lists=['bus','mountain','kang','ausa']
 print(lists)
 # ~ 输出
@@ -18,7 +17,6 @@ print(lists)
 lists.sort(reverse=True)
 print(lists)
 # ~ 按字母永久倒叙输出
-=======
 lists=['bus','mountain','kang','ausa']
 print(lists)
 # ~ 输出
@@ -38,4 +36,3 @@ print(lists)
 lists.sort(reverse=True)
 print(lists)
 # ~ 按字母永久倒叙输出
->>>>>>> db102381194a0508dc69d90fef576995d1b0630e
